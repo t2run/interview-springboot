@@ -7,3 +7,6 @@ Technical discussion on Spring Boot from zero
 https://go.dev/play/p/RPxMtKemJMk
 
 https://go.dev/play/p/6abTO45cjyf
+
+
+https://go.dev/play/p/Dua-wPrMJNP
