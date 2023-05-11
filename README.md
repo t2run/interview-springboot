@@ -17,3 +17,5 @@ https://go.dev/play/p/HQalRoLJzjG
 
 
 https://go.dev/play/p/oHkWI5Pr9Im
+
+https://go.dev/play/p/EwdbqXILdtJ
